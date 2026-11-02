@@ -9,7 +9,11 @@
 // import Product from "../components/Pproduct"
 // import Learn2 from "../components/Learn2"
 // import Weather1 from "../components/Weather1"
-import Weather2 from "../components/Weather2"
+// import Weather2 from "../components/Weather2"
+// import TodosPage1 from "../components/TodosPage1"
+// import TodosPage2 from "../components/TodosPage2"
+// import TodoPage3 from "../components/TodoPage3"
+import TodoPage4 from "../components/TodoPage4";
 
 export default function Home() {
   return (
@@ -27,8 +31,12 @@ export default function Home() {
       {/* <Learn1 /> */}
       {/* <Learn2 /> */}
       {/* <Weather1 /> */}
-      <Weather2 />
+      {/* <Weather2 /> */}
+      {/* <TodosPage1 /> */}
+      {/* <TodosPage2 /> */}
+      {/* <TodoPage3 /> */}
+      <TodoPage4 />
+
     </div>
   );
 }
-
